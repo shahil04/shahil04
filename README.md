@@ -28,6 +28,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://blog.digitalskola.com/wp-content/uploads/2023/11/tools-data-science-1536x1024.jpg">
+
 # 💡 About Me
 
 I am a Data Scientist and Generative AI Engineer passionate about building intelligent systems using Machine Learning, Deep Learning, Large Language Models (LLMs), and Agentic AI.
