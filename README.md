@@ -140,26 +140,6 @@ LLM-powered resume optimization and job matching platform.
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shahil04&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahil04&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shahil04&theme=algolia&row=1&column=7"/>
-</p>
-
----
-
 # 🌱 Currently Learning
 
 * Agentic AI Engineering
